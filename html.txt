@@ -1,0 +1,26 @@
+<html>
+    <body>
+     <header>
+         <main>
+            <h1>Minecraft</h1>
+            <img src="https://w7.pngwing.com/pngs/896/990/png-transparent-minecraft-grass-illustration-minecraft-pocket-edition-minecraft-story-mode-the-technomancer-xbox-360-ico-minecraft-miscellaneous-grass-video-game.png"/><img src="https://w7.pngwing.com/pngs/215/967/png-transparent-creeper-creeper-minecraft-minecraft-green-thumbnail.png"/><img src="https://i.pinimg.com/originals/b9/af/92/b9af9220dd85f069b1c61dd5d72bdfd1.png"/>
+            <p>Minicraft была разработана автором Minecraft Маркусом Перссоном на языке программирования Java за двое суток</p>
+            <h2>Снаряжение:</h2>
+            <ul>
+                <li>МЕЧ</li>
+                <li>ЛУК</li>
+                <li>АРБАЛЕТ</li>
+                <li>ТРЕЗУБЕЦ</li>
+            </ul>
+            <h3>МОБЫ:</h3>
+            <ul>
+                <li>ЗОМБИ</li>
+                <li>ЗОМБИ-ЖИТЕЛЬ</li>
+                <li>КРИПЕР</li>
+                <li>СКЕЛЕТ</li>
+                <li>ЭНДЕРМЕН</li>
+            </ul>
+        </main>
+      </header>
+    </body>
+</html>    
